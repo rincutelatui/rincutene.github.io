@@ -1,0 +1,36 @@
+@charset "UTF-8";
+.table{
+    color: rgb(5, 8, 29);
+    background-color: yellowgreen ;
+    
+   
+    
+}
+.hi{
+    color:black;
+    background-color: #6699cc;
+    
+}
+.cool
+{
+    color:black;
+    background-color:#f5f5dc;
+    font-weight: bold;
+}
+.mau{
+    color:#008080;
+    font-weight: bold;
+    font-style: italic;
+
+}
+.tkb
+{
+    font-style: italic;
+    font-weight: bold;
+    
+}
+/* .cool:hover{
+    width : 500px;
+    height: 500px;
+    background-color : pink; */
+}

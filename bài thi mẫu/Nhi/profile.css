@@ -1,0 +1,51 @@
+@charset "UTF-8";
+*{
+
+}
+
+.Test{
+    width: max-content;
+    padding: 20px;
+    margin: 0 auto;
+    border-radius: 10px;
+    background-color: LightGray;
+    display: inline-block;
+    position: relative;
+    left: 33%;
+}
+
+.test__ava
+{
+    width: 350px;
+    margin-bottom: 10px;
+    
+}
+.test__Name{
+    text-align: center;
+}
+.test__Phone,
+.test__Email{
+    text-align: center;
+}
+.fullname{
+    text-transform: uppercase;
+    text-align: center;
+    font-weight: bold;
+}
+#sdt
+{
+    font-weight: bold;
+}
+.test__btn{
+    display: block;
+    padding: 12px;
+    border-radius: 6px;
+    border: none;
+    margin: 10px auto;
+    background-color: rgb(38, 103, 201);
+    color: White;
+}
+.test__btn:hover{
+    cursor: pointer;
+    background-color:red;
+}

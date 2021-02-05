@@ -1,0 +1,27 @@
+@charset "UTF-8";
+body{
+    height: 100vh;;
+}
+
+div{
+    width: 100px;
+    height: 100px;
+    background-color:  red;
+    padding: 30px;
+    border:  10px solid black;
+    /* position: relative;
+    top: 40%;
+    left: 45%;
+    transform: translateY(-50%); */
+   
+
+}
+div:hover{
+    width: 100px;
+    height: 100px;
+    background-color: pink;
+
+}
+p{
+display: inline;
+}
